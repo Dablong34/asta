@@ -12,13 +12,14 @@ Perintah :
  pkg install python git
  pip install requests cython futures bs4
  git clone https://github.com/asta-id/asta
- cythonize -i brute.c
+ cd $HOME/asta
 ```
 Tunggu hinggan proses install selesai jika sudah kamu jalankan script nya
 
 ### Jalankan Script
 Perintah :
 ```
+ cythonize -i brute.c
  python run.py
 ```
 
