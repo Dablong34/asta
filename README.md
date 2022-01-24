@@ -25,6 +25,7 @@ Perintah :
 
 ### Informasi Harga
 Script ini merupakan script premium. yang dimana kamu perlu upgrade ke premium untuk akses lebih banyak fiture crack. 
+  - Durasi 1 Minggu : Rp 25.000
   - Durasi 1 Bulan : Rp 50.000
   - Durasi 2 Bulan : Rp 100.000
 
